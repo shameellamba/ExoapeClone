@@ -103,7 +103,7 @@ function Footer() {
               </a>{" "}
             </li>
           </ul>
-          <div>Created with &hearts; by Shameel from Sheriyans Coding School.</div>
+          <div className="hidden md:inline-block">Created with &hearts; by Shameel from Sheriyans Coding School.</div>
         </div>
       </footer>
     </div>
